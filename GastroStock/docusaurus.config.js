@@ -89,13 +89,13 @@ const config = {
             position: 'left',
           },
           {
-            to: '/blog',
-            label: 'Blog de desarrollo',
+            to: '/docs/team',
+            label: 'El equipo',
             position: 'left'
           },
           {
-            to: '/docs/team',
-            label: 'El equipo',
+            to: '/blog',
+            label: 'Blog de desarrollo',
             position: 'left'
           },
           {
@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `GastroStock: hecho con <3`,
       },
       prism: {
         theme: prismThemes.github,
