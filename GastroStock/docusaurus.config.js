@@ -122,11 +122,11 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.instagram.com/gastro.stock/',
               },
               {
                 label: 'Tiktok',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.tiktok.com/@gastro.stock',
               },
             ],
           },
