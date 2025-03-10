@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'La primera TPV de nueva generación',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Servimos a tu negocio de la manera más sencilla para ti y tus empleados. Tu forma
+        de trabajar será más eficiente y cómoda sin causarte cambios incómodos.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Tu negocio, tus reglas',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Tus datos son solo tuyos y nos comprometemos a no venderlos ni transferirlos 
+        a nadie fuera de tu negocio.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Impulsado por la Inteligencia Artifical',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Haciendo uso de las últimas tecnologías te brindamos más información sobre
+        el estado de tu negocio, notificaciones y recomendaciones para tus compras y ventas.
       </>
     ),
   },
