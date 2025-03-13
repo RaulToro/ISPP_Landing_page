@@ -83,22 +83,6 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            label: 'Nuestra APP',
-            position: 'left',
-          },
-          {
-            to: '/docs/team',
-            label: 'El equipo',
-            position: 'left'
-          },
-          {
-            to: '/blog',
-            label: 'Blog de desarrollo',
-            position: 'left'
-          },
-          {
             href: 'https://github.com/julsolalf/ISPP-G2',
             label: 'GitHub',
             position: 'right',
@@ -108,15 +92,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Devising a Project',
-                to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -133,10 +108,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/julsolalf/ISPP-G2',
