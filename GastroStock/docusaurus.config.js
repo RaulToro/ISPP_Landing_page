@@ -15,15 +15,15 @@ const config = {
   favicon: 'img/logo.ico',
 
   // Set the production url of your site here
-  url: 'https://gastostock.com',
+  url: 'https://RaulToro.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/GastroStock/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'GastroStock', // Usually your GitHub org/user name.
-  projectName: 'GastroStock', // Usually your repo name.
+  organizationName: 'RaulToro', // Usually your GitHub org/user name.
+  projectName: 'ISPP_Landing_Page', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
